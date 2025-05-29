@@ -38,7 +38,7 @@ Estas son algunas de las herramientas que manejo:
 ### 📫 ¿Charlamos?
 
 - [LinkedIn](https://www.linkedin.com/in/fernandezvalentin/)
-- 📩 Email: *[fernandezvalentinm@gmail.com]*
+- 📩 Email: *fernandezvalentinm@gmail.com*
 - 🧠 Siempre abierto a nuevos desafíos 🚀
 
 ---
