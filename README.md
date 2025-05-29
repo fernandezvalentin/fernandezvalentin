@@ -13,7 +13,7 @@ Estas son algunas de las herramientas que manejo:
 
 - 🖍️ HTML | CSS | JavaScript
 - ⚛️ React | Vite
-- 🐍 Node.js | Express (en proceso de domesticación)
+- 🐍 Node.js | Express (en proceso de aprendizaje)
 - 🐘 MySQL | MongoDB (aprendiendo día a día)
 - 🧰 Git | GitHub
 - 🌐 Responsive Design & Accesibilidad básica
