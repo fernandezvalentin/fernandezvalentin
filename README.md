@@ -14,17 +14,15 @@ Estas son algunas de las herramientas que manejo:
 - 🖍️ HTML | CSS | JavaScript
 - ⚛️ React | Vite
 - 🐍 Node.js | Express (en proceso de aprendizaje)
-- 🐘 MySQL | MongoDB (aprendiendo día a día)
-- 🧰 Git | GitHub
-- 🌐 Responsive Design & Accesibilidad básica
+
 
 ---
 
 ### 🛠️ ¿Qué estoy haciendo ahora?
 
 - ✍️ Construyendo mi **portafolio web**
-- 🎓 Estudiando para mejorar como **Full Stack Developer**
-- 💼 Buscando mi primera experiencia laboral en el mundo IT
+- 🎓 Estudiando Tecnicatura en Programacion para mejorar como **Full Stack Developer**
+- 💼 Buscando experiencia laboral en el mundo IT
 - 📚 Practicando con proyectos reales
 
 ---
