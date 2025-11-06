@@ -13,7 +13,7 @@ Estas son algunas de las herramientas que manejo:
 
 - 🖍️ HTML | CSS | JavaScript
 - ⚛️ React | Vite
-- 🐍 Node.js | Express (en proceso de aprendizaje)
+- 🐍 Node.js
 
 
 ---
@@ -21,15 +21,9 @@ Estas son algunas de las herramientas que manejo:
 ### 🛠️ ¿Qué estoy haciendo ahora?
 
 - ✍️ Construyendo mi **portafolio web**
-- 🎓 Estudiando Tecnicatura en Programacion para mejorar como **Full Stack Developer**
+- 🎓 Estudiando Tecnicatura en Programacion**
 - 💼 Buscando experiencia laboral en el mundo IT
 - 📚 Practicando con proyectos reales
-
----
-
-### 📂 Proyectos destacados
-
-> *Próximamente vas a ver por acá apps que valen la pena mostrar. Por ahora... ¡seguime y andá preparándote!*
 
 ---
 
